@@ -1,0 +1,13 @@
+{
+  "dataset_source": "UCI Occupancy Detection public dataset via LuisM78 GitHub mirror",
+  "messages": [
+    "OK: datatraining.txt already exists.",
+    "OK: datatest.txt already exists.",
+    "Downloaded: datatest2.txt -> D:\\Nam3ky3\\AIOT\\Lab2\\lab2_aiot_public_dataset_deploy2\\data\\public_occupancy_detection\\datatest2.txt"
+  ],
+  "public_dataset_links": {
+    "datatraining.txt": "https://raw.githubusercontent.com/LuisM78/Occupancy-detection-data/refs/heads/master/datatraining.txt",
+    "datatest.txt": "https://raw.githubusercontent.com/LuisM78/Occupancy-detection-data/refs/heads/master/datatest.txt",
+    "datatest2.txt": "https://raw.githubusercontent.com/LuisM78/Occupancy-detection-data/refs/heads/master/datatest2.txt"
+  }
+}
